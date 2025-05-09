@@ -28,6 +28,7 @@ npm install
 npm run dev
 
 Buka browser dan akses: http://localhost:5173
+
 ```
 
 ## 2. Cuplikan 
